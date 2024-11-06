@@ -1,0 +1,27 @@
+#A{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 23px;
+    width: 80px;
+}
+#B{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 23px;
+    width: 80px;
+}
+#C{
+    background-color:aliceblue;
+    border: 3px;
+    width: 55vw;
+}
+#main{
+    background-color: white;
+    margin: 20px;
+    box-shadow: black;
+}
+.E{
+    background-color: ;
+}
